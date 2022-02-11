@@ -62,7 +62,7 @@ header a:hover, footer a:hover{
 
     section > p{
         padding-bottom: 2em;
-        margin-top: 70px;
+        margin-top: 40px;
     }
 
     section.normal{
@@ -77,7 +77,7 @@ header a:hover, footer a:hover{
         padding: 10px;
         background-attachment: fixed;
         background-size: cover;
-        height: 650px;
+        height: 90vh;
     }
 
     section.imagem > p{
